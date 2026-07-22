@@ -18,6 +18,10 @@ Two sub-categories consistently stood out negatively:
   - Second lowest profit-to-sales ratio (8%)
   - Above average discount rate (17%)
   - Second lowest number of orders (1,486)
+ 
+## 📊Analysis Process
+- **Excel**: Initial analysis was completed in Excel using features such as filtering, conditional formatting, and PivotTables
+- **Tableau**: Visualization design was completed in Tableau, including bar charts and tables. Pay special attention to the intentional use of color to highlight areas of concern as well as annotations to share key insights.
 
-
-## 📊 Presentation Materials
+## 🖥️ Presentation Materials
+Here are the presentation slides I used in my presentation to Superstore: [Presentation Slides](AnalysisProcess_SummarySlides.pdf)
